@@ -1,6 +1,6 @@
 # -dev
 youtube linki: https://www.youtube.com/watch?v=-0Tcie2iFaU
-//Yazilim Muhendisligi dersi final projesi anlatım videosu yukarıdaki youtube linkinde
+//Yazilim Muhendisligi dersi final projesi anlatım videosu youtube linkinde
 
 
  kodlar:
